@@ -1,0 +1,270 @@
+{
+    "categoryItem":[
+        {
+           "name":"Grocery",
+           "image":"assets/29327f40e9c4d26b.png",
+           "Category":[
+                     {
+                        "Category_name":"",
+                        "subCategory":[
+                           
+                        ]
+                     }
+           ] 
+        },
+        {
+            "name":"Mobile",
+            "image":"assets/22fddf3c7da4c4f4.png",
+            "Category":[
+                      {
+                         "Category_name":"",
+                         "subCategory":[
+                             
+                         ]
+                      }
+                     
+            ] 
+         },{
+            "name":"Fashion",
+            "image":"assets/c12afc017e6f24cb.png",
+            "Category":[
+                      {
+                         "Category_name":"Men Top Wear",
+                         "subCategory":[
+                             "All",
+                             "Men's T-Shirts",
+                             "Men's Casual Shirts",
+                             "Men's Formal Shirts",
+                             "Men's Kurtas",
+                             "Men's Ethnic Sets",
+                             "Men's Blazers",
+                             "Men's Raincoat",
+                             "Men's Windcheaters",
+                             "Men's Suit",
+                             "Men's Fabrics"
+                         ]
+                      },
+                      {
+                         "Category_name":"Men's Bottom Wear",
+                         "subCategory":[
+                             "All",
+                             "Men's jeans",
+                             "Men's Trousers",
+                             "Men's Track pants",
+                             "Men's Shorts",
+                             "Men's Cargo",
+                             "Men's Pyjama",
+                             "Men's Dhoti",
+                             "Men's ThreeFourths",
+                             "Men's Suit",
+                             "Men's Fabrics"
+                         ]
+                      },
+                      {
+                        "Category_name":"Women Ethinic",
+                        "subCategory":[
+                            "All",
+                            "Women Saree",
+                            "Women Kurta & Kurties",
+                            "Women Salwar Suit",
+                            "Ethinic Dresses",
+                            "Women Dress Material",
+                            "Women Gowns",
+                            "Women lahenga choli",
+                            "Women Leginns & Patiyala",
+                            "Women Duppta",
+                            "Women Blouse"
+                        ]
+                     }
+                     ,
+                     {
+                        "Category_name":"Women Western",
+                        "subCategory":[
+                            "All",
+                            "Women Saree",
+                            "Women Kurta & Kurties",
+                            "Women Salwar Suit",
+                            "Ethinic Dresses",
+                            "Women Dress Material",
+                            "Women Gowns",
+                            "Women lahenga choli",
+                            "Women Leginns & Patiyala",
+                            "Women Duppta",
+                            "Women Blouse"
+                        ]
+                     }
+            ] 
+         },
+         {
+            "name":"Electronics",
+            "image":"assets/69c6589653afdb9a.png",
+            "Category":[
+                      {
+                         "Category_name":"Men Top Wear",
+                         "subCategory":[
+                             "All",
+                             "Men's T-Shirts",
+                             "Men's Casual Shirts",
+                             "Men's Formal Shirts",
+                             "Men's Kurtas",
+                             "Men's Ethnic Sets",
+                             "Men's Blazers",
+                             "Men's Raincoat",
+                             "Men's Windcheaters",
+                             "Men's Suit",
+                             "Men's Fabrics"
+                         ]
+                      },
+                      {
+                         "Category_name":"Men's Bottom Wear",
+                         "subCategory":[
+                             "All",
+                             "Men's jeans",
+                             "Men's Trousers",
+                             "Men's Track pants",
+                             "Men's Shorts",
+                             "Men's Cargo",
+                             "Men's Pyjama",
+                             "Men's Dhoti",
+                             "Men's ThreeFourths",
+                             "Men's Suit",
+                             "Men's Fabrics"
+                         ]
+                      }
+            ] 
+         },{
+            "name":"Home",
+            "image":"assets/ab7e2b022a4587dd.jpg",
+            "Category":[
+                      {
+                         "Category_name":"Men Top Wear",
+                         "subCategory":[
+                             "All",
+                             "Men's T-Shirts",
+                             "Men's Casual Shirts",
+                             "Men's Formal Shirts",
+                             "Men's Kurtas",
+                             "Men's Ethnic Sets",
+                             "Men's Blazers",
+                             "Men's Raincoat",
+                             "Men's Windcheaters",
+                             "Men's Suit",
+                             "Men's Fabrics"
+                         ]
+                      },
+                      {
+                         "Category_name":"Men's Bottom Wear",
+                         "subCategory":[
+                             "All",
+                             "Men's jeans",
+                             "Men's Trousers",
+                             "Men's Track pants",
+                             "Men's Shorts",
+                             "Men's Cargo",
+                             "Men's Pyjama",
+                             "Men's Dhoti",
+                             "Men's ThreeFourths",
+                             "Men's Suit",
+                             "Men's Fabrics"
+                         ]
+                      }
+            ] 
+         },{
+            "name":"Aplliances",
+            "image":"assets/0ff199d1bd27eb98.png",
+            "Category":[
+                      {
+                         "Category_name":"",
+                         "subCategory":[
+
+                         ]
+                      }
+            ] 
+         }
+         ,{
+            "name":"Travel",
+            "image":"assets/71050627a56b4693.png",
+            "Category":[
+                      {
+                         "Category_name":"",
+                         "subCategory":[
+                           
+                         ]
+                      }
+            ] 
+         },{
+            "name":"Top Offers",
+            "image":"assets/f15c02bfeb02d15d.png",
+            "Category":[
+                      {
+                         "Category_name":"",
+                         "subCategory":[
+                             
+                         ]
+                      }
+                     
+                      
+            ] 
+         },{
+            "name":"Beauty ,Toys & More",
+            "image":"assets/dff3f7adcf3a90c6.png",
+            "Category":[
+                      {
+                         "Category_name":"Men Top Wear",
+                         "subCategory":[
+                             "All",
+                             "Men's T-Shirts",
+                             "Men's Casual Shirts",
+                             "Men's Formal Shirts",
+                             "Men's Kurtas",
+                             "Men's Ethnic Sets",
+                             "Men's Blazers",
+                             "Men's Raincoat",
+                             "Men's Windcheaters",
+                             "Men's Suit",
+                             "Men's Fabrics"
+                         ]
+                      },
+                      {
+                         "Category_name":"Men's Bottom Wear",
+                         "subCategory":[
+                             "All",
+                             "Men's jeans",
+                             "Men's Trousers",
+                             "Men's Track pants",
+                             "Men's Shorts",
+                             "Men's Cargo",
+                             "Men's Pyjama",
+                             "Men's Dhoti",
+                             "Men's ThreeFourths",
+                             "Men's Suit",
+                             "Men's Fabrics"
+                         ]
+                      }
+            ] 
+         },
+         {
+            "name":"Two Wheelers",
+            "image":"assets/05d708653beff580.png",
+            "Category":[
+                      {
+                         "Category_name":"",
+                         "subCategory":[
+                             
+                         ]
+                      }
+                      
+            ] 
+         }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+       
+    ]
+}
