@@ -34,7 +34,7 @@ const Products = ({electronicsData}) => {
        <div className='containt'id='containt'>
           {electronicsData.map((product, index)=>{
               return( 
-                     <div className='product-container'>
+                     <div className='product-container' key={"Product"+index}>
                         <img src={product.pic} alt="product" />
                         <h2>{product.name}</h2>
                         <h3>₹{numberWithCommas(product.price)}</h3>
