@@ -319,35 +319,9 @@
       "image": "assets/dff3f7adcf3a90c6.png",
       "Category": [
         {
-          "Category_name": "Men Top Wear",
-          "subCategory": [
-            "All",
-            "Men's T-Shirts",
-            "Men's Casual Shirts",
-            "Men's Formal Shirts",
-            "Men's Kurtas",
-            "Men's Ethnic Sets",
-            "Men's Blazers",
-            "Men's Raincoat",
-            "Men's Windcheaters",
-            "Men's Suit",
-            "Men's Fabrics"
-          ]
-        },
-        {
           "Category_name": "Men's Bottom Wear",
           "subCategory": [
-            "All",
-            "Men's jeans",
-            "Men's Trousers",
-            "Men's Track pants",
-            "Men's Shorts",
-            "Men's Cargo",
-            "Men's Pyjama",
-            "Men's Dhoti",
-            "Men's ThreeFourths",
-            "Men's Suit",
-            "Men's Fabrics"
+           
           ]
         }
       ]
