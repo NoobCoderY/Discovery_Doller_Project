@@ -164,7 +164,7 @@
       "image": "assets/69c6589653afdb9a.png",
       "Category": [
         {
-          "Category_name": "Men Top Wear",
+          "Category_name": "Gadget",
           "subCategory": [
             "All",
             "Men's T-Shirts",
@@ -180,7 +180,56 @@
           ]
         },
         {
-          "Category_name": "Men's Bottom Wear",
+          "Category_name": "Computer Peripherals",
+          "subCategory": [
+            "All",
+            "Men's jeans",
+            "Men's Trousers",
+            "Men's Track pants",
+            "Men's Shorts",
+            "Men's Cargo",
+            "Men's Pyjama",
+            "Men's Dhoti",
+            "Men's ThreeFourths",
+            "Men's Suit",
+            "Men's Fabrics"
+          ]
+        },
+        {
+          "Category_name": "Camera",
+          "subCategory": [
+            "All",
+            "Men's jeans",
+            "Men's Trousers",
+            "Men's Track pants",
+            "Men's Shorts",
+            "Men's Cargo",
+            "Men's Pyjama",
+            "Men's Dhoti",
+            "Men's ThreeFourths",
+            "Men's Suit",
+            "Men's Fabrics"
+          ]
+        },
+        {
+          "Category_name": "laptop",
+          "subCategory": [
+            "All",
+            "Men's jeans",
+            "Men's Trousers",
+            "Men's Track pants",
+            "Men's Shorts",
+            "Men's Cargo",
+            "Men's Pyjama",
+            "Men's Dhoti",
+            "Men's ThreeFourths",
+            "Men's Suit",
+            "Men's Fabrics"
+          ]
+        }
+        ,
+        {
+          "Category_name": "Desktop",
           "subCategory": [
             "All",
             "Men's jeans",
