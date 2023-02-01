@@ -6,6 +6,7 @@ import Footer from "./Component/Footer";
 import Sponsers from "./Component/Sponsers"
 import { useState } from "react";
 import Products from "./Products";
+import SignUp from "./Component/SignUp";
 
 function App() {
   const [electronicsData, setElectronicsData] = useState([
@@ -113,6 +114,7 @@ function App() {
     <div style={{display:'flex',width:'98%',margin:'auto',boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}}>
       <Products electronicsData={electronicsData}/>
     </div>
+    <SignUp/>
     <Sponsers/>
     <Footer/>
     {/* </BrowserRouter> */}

@@ -86,7 +86,7 @@
 }
 .dropdown:hover .dropdown-item{
   background-color: rgba(110, 110, 110, 0.067);
-  color: #2874f0;
+  color: #0654a2;
   font-weight: 600;
 }
 .dropdown-item{
@@ -137,7 +137,7 @@
 }
 .subelement-item:hover .subelement-item-element{
   background-color: rgba(110, 110, 110, 0.067);
-  color: #2874f0;
+  color: #0654a2;
   font-weight: 600;
 }
 /* .drop-down{
