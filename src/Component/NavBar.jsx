@@ -9,7 +9,6 @@ const Header = () => {
            <div className="logo">
             Ecommerce
            </div>
-      {/* <button className="LBtn">Login</button> */}
       <div className='links'>
         <div className={"SellerInfo"}>Home</div>
         <div className={"SellerInfo"}>About</div>

@@ -1,7 +1,6 @@
 import React from 'react';
 import { AiFillCaretLeft } from "react-icons/ai";
 import { AiFillCaretRight } from "react-icons/ai";
-// import { Link } from 'react-router-dom';
 import './products.css'
 
 

@@ -1,5 +1,4 @@
 import "./App.css";
-// import { BrowserRouter,Route,Routes } from "react-router-dom";
 import Navbar from "./Component/NavBar";
 import Header from "./Component/Header";
 import Footer from "./Component/Footer";
@@ -104,12 +103,7 @@ function App() {
     }
   ])
   return <>
-    {/* <BrowserRouter> */}
     <Navbar></Navbar>
-    {/* <Routes> */}
-        
-        {/* <Route exact path="/header" element={<Header/>}></Route>
-    </Routes> */}
     <Header/>
     <div style={{display:'flex',width:'98%',margin:'auto',boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}}>
       <Products electronicsData={electronicsData}/>
@@ -117,7 +111,6 @@ function App() {
     <SignUp/>
     <Sponsers/>
     <Footer/>
-    {/* </BrowserRouter> */}
   </>;
 }
 

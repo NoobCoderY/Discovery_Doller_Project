@@ -2,18 +2,14 @@
   display: flex;
   justify-content: center;
     margin: 48px;
-    /* width: 100%; */
-    /* display: flex; */
   }
   .p .q {
     display: flex;
-    /* margin: 0px 100px; */
     margin: 0px 15%;
     justify-content: center;
   }
   .p .q img {
     margin: 0px 35px;
-    /* width: 110px; */
     width: 10%;
     filter: grayscale(1);
     transition-property: grayscale;
